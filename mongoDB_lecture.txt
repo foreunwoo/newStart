@@ -1,0 +1,6 @@
+mysql orm(object relation mapping)
+
+몽고 디비 odm(object document mapping)
+- mongoose로 제약을 둠으로서 안전성과 편의성을 높임.
+
+mongoose sckema는 sequelize model과 비슷한 역할을 한다.
